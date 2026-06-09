@@ -1,15 +1,17 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#]: Misc. bug: server provides strutured output for response_format: json_object, but not for response_format: json_schema
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1  
+**Student:** Selvakumar Thirumalainambi 
+**Issue:** https://github.com/ggml-org/llama.cpp/issues/10732
+**Status:** Phase I Complete
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it connects high-performance AI backend hosting with structured data API logic. My professional experience focuses heavily on building robust enterprise APIs and application frameworks. Additionally, because I have a foundational background in C/C++, I can quickly adapt to working inside a compiled codebase without getting stuck on the core rules of the language.
+
+This project aligns perfectly with my graduate learning goals: it allows me to understand exactly how an AI inference engine processes and forces structured outputs (like JSON schemas) at the web server layer. It gives me a strong portfolio piece demonstrating backend systems engineering, while keeping my work safely contained within the server's main application logic file rather than pulling me into complex hardware memory management or custom machine-learning hardware configurations.
 
 ---
 
